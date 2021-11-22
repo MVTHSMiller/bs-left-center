@@ -1,0 +1,14 @@
+/* Styles for the test files */
+
+h1.top {
+    margin-top:100px;
+  }
+
+.status {
+    font-size: 1.5rem;
+ }
+
+.check-mark {
+    color:dodgerblue;
+    margin-right:1rem;
+  }
